@@ -1,0 +1,15 @@
+{
+  "annotation": "Target: google.com. Routed via mobile edge node proxy. Intercepted 302 redirect to Google security wall.",
+  "timestamp": "2026-07-05T00:36:53Z",
+  "proxy_ip": "185.212.112.45",
+  "response": {
+    "url": "https://google.com",
+    "cached": false,
+    "chain": [
+      "https://google.com",
+      "https://www.google.com/sorry/index?continue=https://google.com/&q=EgRoF77FGJyaptIGIilvmEWe4RdwSzpD47BP5FbBMOtSOW-cTXbzRcYBiA9Xb-rbyNTaWptKGzICclJaAUM"
+    ],
+    "hops": 1,
+    "final_destination": "https://www.google.com/sorry/index?continue=https://google.com/&q=EgRoF77FGJyaptIGIilvmEWe4RdwSzpD47BP5FbBMOtSOW-cTXbzRcYBiA9Xb-rbyNTaWptKGzICclJaAUM"
+  }
+}
